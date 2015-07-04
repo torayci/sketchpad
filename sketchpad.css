@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+}
+
+.button{
+	height:20px;
+	width:105px;
+	background-color: grey;
+	border: 1px solid black;
+	margin: 10px;
+	padding: 5px;
+	font-family: Arial;
+	display: inline-block;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+.container{
+	text-align: center;
+	height: 530px;
+	width: 525px;
+	border: 1px solid black;
+	padding: 20px;
+	margin: 10px;
+}
+
+.grid{
+	height:10px;
+	width:10px;
+	border: 1px solid black;
+	display: inline-block;
+	margin-left: 3px;
+	margin-bottom: .1px;
+}
